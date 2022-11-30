@@ -1,0 +1,11 @@
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.Properties.Resources.resources
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.csproj.GenerateResource.cache
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Csharp\BuscaMinas\bin\Debug\BuscaMinas.exe.config
+C:\Users\Ryzen\Csharp\BuscaMinas\bin\Debug\BuscaMinas.exe
+C:\Users\Ryzen\Csharp\BuscaMinas\bin\Debug\BuscaMinas.pdb
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.exe
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.pdb
+C:\Users\Ryzen\Csharp\BuscaMinas\obj\Debug\BuscaMinas.Form1.resources
